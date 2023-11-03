@@ -35,9 +35,7 @@ export class MainComponent implements OnInit {
 
   }
 
-   weatheree(weather: WeatherData) {
-    
-  }
+   
 
 
 }
